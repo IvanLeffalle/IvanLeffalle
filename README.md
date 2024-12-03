@@ -52,7 +52,7 @@ Hi, This is Ivan!
 
 <p>
     <a href="https://github.com/IvanLeffalle"><img alt="React" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="https://github.com/IvanLeffalle"><img alt="Tailwind css" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+    <a href="https://github.com/IvanLeffalle"><img alt="Tailwind css" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
