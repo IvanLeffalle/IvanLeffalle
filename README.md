@@ -110,7 +110,6 @@ I thrive on adapting to new challenges, transforming them into opportunities for
 	<br/>
 </p>
 <br/>
-<!--
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
 <p align="center">
@@ -119,7 +118,6 @@ I thrive on adapting to new challenges, transforming them into opportunities for
 	</a>
 </p>
 <br/>
--->
 <summary><b>⚡ Top Languages</b></summary>
 <br/>
 
