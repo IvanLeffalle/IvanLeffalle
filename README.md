@@ -20,19 +20,23 @@ Hi, This is Ivan!
 </p>
 
 <hr>
-
 <pre>
-💻 Full Stack Developer
-📚 Software Development Student at BYU-Idaho
-📝 Enthusiastic about Data Science and Artificial Intelligence
-🔭 Exploring Deep Learning, Machine Learning, and Computer Vision
-🌟 Skilled in Python and JavaScript
-🚀 Certified in Web and Computer Programming
-🌱 Passionate about Full Stack Machine Learning Applications
+💻 Full Stack Developer  
+📚 Software Development Student at BYU-Idaho  
+📝 Enthusiastic about learning and solving complex problems  
+🔭 Interested in transitioning into fields like Machine Learning and Artificial Intelligence in the future  
+🌟 Skilled in Python and JavaScript  
+🚀 Certified in Web and Computer Programming  
+🌱 Passionate about creating impactful and efficient software solutions  
 
-🤔 I’m transitioning from dentistry to tech, combining my analytical background with a drive to innovate in the tech world. 
-🙌 Open to internships or junior developer opportunities! this is <a href="#" target="_blank">MY RESUME.</a>
+🎓 Dentist Graduate of the Universidad Nacional del Nordeste, Argentina  
+
+🌟 Embracing Change: Transitioning from dentistry to tech has been an exciting journey, driven by curiosity and resilience. I thrive on adapting to new challenges, transforming them into opportunities for growth, and continuously learning in a dynamic industry.  
+
+🤔 I’m combining my analytical background with a passion for innovation to make an impact in the tech world.  
+🙌 Open to internships or developer opportunities! This is <a href="#" target="_blank">MY RESUME.</a>
 </pre>
+
 <hr>
 
 ## 🤝 Connect with me
