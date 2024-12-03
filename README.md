@@ -65,6 +65,7 @@ Hi, This is Ivan!
 <p>
     <a href="https://github.com/IvanLeffalle"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="https://github.com/IvanLeffalle"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+	<a href="https://github.com/IvanLeffalle"><img alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
