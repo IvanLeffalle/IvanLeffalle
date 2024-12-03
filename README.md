@@ -139,9 +139,9 @@ I thrive on adapting to new challenges, transforming them into opportunities for
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:IvanLeffalle.mohammed@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:IvanmLeffalle@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/IvanLeffalle/">LinkedIn</a> to deploy your machine learning project on web.
+You can also find me on <a href="https://www.linkedin.com/in/IvanLeffalle/">LinkedIn</a>.
 
   </td>
   <td width="50%" valign="top">
