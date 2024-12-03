@@ -95,21 +95,6 @@ I thrive on adapting to new challenges, transforming them into opportunities for
     <a href="https://github.com/IvanLeffalle"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 -->
-
-
-## <a href="https://github.com/IvanLeffalle">✔ </a> GitHub Stats
-
-<br/>
-<summary><b>⚡ IvanLeffalle's Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/IvanLeffalle">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=IvanLeffalle&show_icons=true" alt="IvanLeffalle">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=IvanLeffalle" alt="IvanLeffalle">
-	</a>
-	<br/>
-</p>
-<br/>
 <!---->
 
 <!--Github stats Table--> 
@@ -121,7 +106,7 @@ I thrive on adapting to new challenges, transforming them into opportunities for
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ivanleffalle">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanleffalle&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanleffalle&theme=monokai&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -129,7 +114,7 @@ I thrive on adapting to new challenges, transforming them into opportunities for
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ivanleffalle">
-          <img align="center" src="https://streak-stats.demolab.com/?user=ivanleffalle&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanleffalle&theme=monokai&hide_border=false" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -168,7 +153,7 @@ I thrive on adapting to new challenges, transforming them into opportunities for
 
 <p align="center">
 	<a href="https://github.com/IvanLeffalle">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanLeffalle&langs_count=8&layout=compact" alt="IvanLeffalle">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanleffalle&theme=monokai&show_icons=true&hide_border=false&layout=compact" alt="IvanLeffalle">
 	</a>
 	<br/>
 <br/>
