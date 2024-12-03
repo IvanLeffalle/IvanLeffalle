@@ -29,7 +29,8 @@ Hi, This is Ivan!
 🔭 Interested in transitioning into fields like Machine Learning and Artificial Intelligence in the future  
 🌟 Skilled in Python and JavaScript  
 
-🌟 Embracing Change: Transitioning from dentistry to tech has been an exciting journey, driven by curiosity and resilience. I thrive on adapting to new challenges, transforming them into opportunities for growth, and continuously learning in a dynamic industry.  
+🌟 Embracing Change: Transitioning from dentistry to tech has been an exciting journey, driven by curiosity and resilience. 
+I thrive on adapting to new challenges, transforming them into opportunities for growth.
 
 🤔 I’m combining my analytical background with a passion for innovation to make an impact in the tech world.  
 🙌 Open to internships or developer opportunities! This is <a href="#" target="_blank">MY RESUME.</a>
