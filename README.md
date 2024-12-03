@@ -22,6 +22,7 @@ Hi, This is Ivan!
 <hr>
 <pre>
 💻 Full Stack Developer  
+🎓 Dentist Graduate of the Universidad Nacional del Nordeste, Argentina  
 📚 Software Development Student at BYU-Idaho  
 📝 Enthusiastic about learning and solving complex problems  
 🔭 Interested in transitioning into fields like Machine Learning and Artificial Intelligence in the future  
@@ -29,7 +30,6 @@ Hi, This is Ivan!
 🚀 Certified in Web and Computer Programming  
 🌱 Passionate about creating impactful and efficient software solutions  
 
-🎓 Dentist Graduate of the Universidad Nacional del Nordeste, Argentina  
 
 🌟 Embracing Change: Transitioning from dentistry to tech has been an exciting journey, driven by curiosity and resilience. I thrive on adapting to new challenges, transforming them into opportunities for growth, and continuously learning in a dynamic industry.  
 
