@@ -60,6 +60,8 @@ I thrive on adapting to new challenges, transforming them into opportunities for
 <p>
     <a href="https://github.com/IvanLeffalle"><img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"></a>
     <a href="https://github.com/IvanLeffalle"><img alt="Tailwind css" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"></a>
+	    <a href="https://github.com/IvanLeffalle"><img alt="NextJs" src="https://img.shields.io/badge/-Next_JS-black?&logoColor=white&logo=nextdotjs&color=000000"></a>
+
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
