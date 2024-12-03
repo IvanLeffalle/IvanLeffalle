@@ -114,7 +114,7 @@ I thrive on adapting to new challenges, transforming them into opportunities for
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ivanleffalle">
-          <img align="center" src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanleffalle&theme=monokai&hide_border=false" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanleffalle&theme=monokai&hide_border=false" alt="Streak Stats" />
         </a>
       </p>
     </td>
