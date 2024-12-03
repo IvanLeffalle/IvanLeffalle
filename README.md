@@ -22,7 +22,7 @@ Hi, This is Ivan!
 <hr>
 
 <pre>
-💻 Aspiring Junior Developer
+💻 Junior Developer
 📚 Software Development Student at BYU-Idaho
 📝 Enthusiastic about Data Science and Artificial Intelligence
 🔭 Exploring Deep Learning, Machine Learning, and Computer Vision
@@ -32,16 +32,6 @@ Hi, This is Ivan!
 
 🤔 I’m transitioning from dentistry to tech, combining my analytical background with a drive to innovate in the tech world. 
 🙌 Open to internships or junior developer opportunities! this is <a href="#" target="_blank">MY RESUME.</a>
-
-	
-💻 
-📚 
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="#" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
