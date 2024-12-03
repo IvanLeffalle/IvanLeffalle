@@ -45,13 +45,13 @@ Hi, This is Ivan!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/IvanLeffalle"><img alt="JavaScript" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"></a>
+    <a href="https://github.com/IvanLeffalle"><img alt="JavaScript" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"></a>
     <a href="https://github.com/IvanLeffalle"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/IvanLeffalle"><img alt="React" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="https://github.com/IvanLeffalle"><img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"></a>
     <a href="https://github.com/IvanLeffalle"><img alt="Tailwind css" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"></a>
 </p>
 
