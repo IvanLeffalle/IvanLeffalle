@@ -121,7 +121,7 @@ I thrive on adapting to new challenges, transforming them into opportunities for
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ivanleffalle">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanleffalle&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanleffalle&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
         </a>
       </p>
     </td>
