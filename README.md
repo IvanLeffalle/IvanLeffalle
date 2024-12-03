@@ -22,7 +22,7 @@ Hi, This is Ivan!
 <hr>
 
 <pre>
-💻 Junior Developer
+💻 Full Stack Developer
 📚 Software Development Student at BYU-Idaho
 📝 Enthusiastic about Data Science and Artificial Intelligence
 🔭 Exploring Deep Learning, Machine Learning, and Computer Vision
