@@ -97,10 +97,10 @@ I thrive on adapting to new challenges, transforming them into opportunities for
 -->
 
 
-## <a href="https://github.com/IvanLeffalle"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+## <a href="https://github.com/IvanLeffalle">✔ </a> GitHub Stats
 
 <br/>
-<summary><b> ###⚡ IvanLeffalle's Stats</b></summary>
+<summary><b>⚡ IvanLeffalle's Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/IvanLeffalle">
