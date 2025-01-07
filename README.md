@@ -21,7 +21,7 @@ Hi, This is Ivan!
 
 <hr>
 <pre>
-💻 Full Stack Developer  
+💻 Frontend Developer  
 🎓 Dentist Graduate of the Universidad Nacional del Nordeste, Argentina 	
 🚀 Certified in Web and Computer Programming  
 📚 Software Development Student at BYU-Idaho  
