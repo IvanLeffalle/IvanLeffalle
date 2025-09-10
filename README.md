@@ -15,19 +15,17 @@ Hi, This is Ivan!
 <br/>
 <p align="center">
 	<a href="https://github.com/IvanLeffalle">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
 <hr>
 <pre>
-💻 Frontend Developer  
+💻 Full-stack Developer  
 🎓 Dentist Graduate of the Universidad Nacional del Nordeste, Argentina 	
 🚀 Certified in Web and Computer Programming  
 📚 Software Development Student at BYU-Idaho  
 📝 Enthusiastic about learning and solving complex problems  
-🔭 Interested in transitioning into fields like Machine Learning and Artificial Intelligence in the future  
-🌟 Skilled in Python and JavaScript  
 
 🌟 Embracing Change: Transitioning from dentistry to tech has been an exciting journey, driven by curiosity and resilience. 
 I thrive on adapting to new challenges, transforming them into opportunities for growth.
